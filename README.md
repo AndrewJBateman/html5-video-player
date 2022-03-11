@@ -1,8 +1,12 @@
 # :zap: Javascript HTML5 Video Player
 
 * Wes Bos Youtube Tutorial: [Custom HTML5 Video Player - #JavaScript30 11/30](https://www.youtube.com/watch?v=yx-HYerClEA).
+* **Note:** to open web links in a new window use: _ctrl+click on link_
 
-*** Note: to open web links in a new window use: _ctrl+click on link_**
+![GitHub repo size](https://img.shields.io/github/repo-size/AndrewJBateman/html5-video-player?style=plastic)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/AndrewJBateman/html5-video-player?style=plastic)
+![GitHub Repo stars](https://img.shields.io/github/stars/AndrewJBateman/html5-video-player?style=plastic)
+![GitHub last commit](https://img.shields.io/github/last-commit/AndrewJBateman/html5-video-player?style=plastic)
 
 ## :page_facing_up: Table of contents
 
@@ -16,11 +20,12 @@
   * [:cool: Features](#cool-features)
   * [:clipboard: Status & To-Do List](#clipboard-status--to-do-list)
   * [:clap: Inspiration](#clap-inspiration)
+  * [:file_folder: License](#file_folder-license)
   * [:envelope: Contact](#envelope-contact)
 
 ## :books: General info
 
-* Tutorial Code to play video in html.
+* Tutorial Code to play video in HTML.
 
 ## :camera: Screenshots
 
@@ -28,7 +33,7 @@
 
 ## :signal_strength: Technologies
 
-* Ran in Google Chrome browser with: [Javascript engine V8 7.9.317.32 for Windows (x64)](https://v8.dev/).
+* Ran in Google Chrome browser with: [Javascript engine V8 9.9 for Windows (x64)](https://v8.dev/).
 
 ## :floppy_disk: Setup
 
@@ -58,6 +63,10 @@ function updateButton() {
 ## :clap: Inspiration
 
 * Wes Bos Youtube Tutorial: [Custom HTML5 Video Player - #JavaScript30 11/30](https://www.youtube.com/watch?v=yx-HYerClEA).
+
+## :file_folder: License
+
+* N/A
 
 ## :envelope: Contact
 
